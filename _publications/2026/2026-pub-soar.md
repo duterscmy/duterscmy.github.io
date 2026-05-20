@@ -10,7 +10,7 @@ pub_date:       "2026"
 # semantic_scholar_id: 204e3073870fae3d05bcbc2f6a8e263d9b72e776  # use this to retrieve citation count
 abstract: >-
   SOAR is a training-free decoding algorithm for Diffusion Language Models that adaptively switches between wider search and parallel decoding based on model confidence, improving reasoning and code generation quality without sacrificing inference speed.
-cover:          /assets/images/covers/soar.png
+# cover:          /assets/images/covers/soar.png
 authors:
   - Mingyu Cao
   - Alvaro H.C. Correia

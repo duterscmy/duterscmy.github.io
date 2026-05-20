@@ -10,7 +10,7 @@ pub_date:       "2026"
 # semantic_scholar_id: 204e3073870fae3d05bcbc2f6a8e263d9b72e776  # use this to retrieve citation count
 abstract: >-
   A pruning method for Mixture-of-Experts models that merges multiple experts per layer into a reduced set, preserving model quality while reducing memory usage and improving inference efficiency.
-cover:          /assets/images/covers/cdmoe.png
+# cover:          /assets/images/covers/cdmoe.png
 authors:
   - Mingyu Cao
   - Gen Li
