@@ -1,7 +1,7 @@
 ---
 title:          "A neural network-based joint learning approach for biomedical entity and relation extraction from biomedical literature"
 date:           2020-03-01 00:01:00 +0800
-selected:       false
+selected:       true
 pub:            "Journal of biomedical informatics (JBI)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
