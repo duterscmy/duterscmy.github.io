@@ -23,8 +23,8 @@ short_bio_text_justify: false
 short_bio: >-
   <p>
     Hi, I am Mingyu Cao (曹明宇), a first-year PhD student in the
-    <a href="https://www.surrey.ac.uk/school-computer-science-and-electronic-engineering" target="_blank">School of Computer Science and Electronic Engineering</a>
-    at the University of Surrey, advised by
+    School of Computer Science and Electronic Engineering
+    at the <a href="https://www.surrey.ac.uk/school-computer-science-and-electronic-engineering" target="_blank">University of Surrey</a>, advised by
     <a href="https://luuyin.com/" target="_blank">Dr. Lu Yin</a>.
     My research focuses on Diffusion Language Models and Efficient LLMs.
   </p>
