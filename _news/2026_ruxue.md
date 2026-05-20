@@ -1,5 +1,6 @@
 ---
-title: Our Paper "Condense, Don't Just Prune" Has Been Accepted to TMLR, This is my first first-author publication! 🎉
-date: 2026-03-20 00:01:00 +0000
+title: "I Started My PhD at the University of Surrey"
+date: 2026-02-05 00:01:00 +0000
 ---
+
 
