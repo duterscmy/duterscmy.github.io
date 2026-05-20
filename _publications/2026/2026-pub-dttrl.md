@@ -2,7 +2,7 @@
 title:          "dTTRL: Test-Time Reinforcement Learning for Diffusion Language Model"
 date:           2026-05-07 00:01:00 +0800
 selected:       false
-pub:            "Neurips 2026"
+pub:            "Neurips"
 pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Regular</span>'

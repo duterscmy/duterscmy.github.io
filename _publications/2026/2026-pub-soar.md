@@ -2,7 +2,7 @@
 title:          "Search or Accelerate: Confidence-Switched Position Beam Search for Diffusion Language Models"
 date:           2026-04-30 00:01:00 +0800
 selected:       true
-pub:            "ICML 2026"
+pub:            "ICML"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Regular</span>'

@@ -2,7 +2,7 @@
 title:          "Condense, Don't Just Prune: Enhancing Efficiency and Performance in MoE Layer Pruning"
 date:           2026-04-01 00:01:00 +0800
 selected:       true
-pub:            "Transactions on Machine Learning Research (TMLR)"
+pub:            "TMLR"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
